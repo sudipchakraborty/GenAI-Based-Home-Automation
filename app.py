@@ -7,7 +7,7 @@
 
 def main():
     print("Hello, World! 🎉")
-    print("This is yours Python project running inside venv.")
+    print("This is yourss Python project running inside venv.")
 
 if __name__ == "__main__":
     main()
